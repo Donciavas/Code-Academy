@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\Pirma pamoka.exe
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\Pirma pamoka.deps.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\Pirma pamoka.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\Pirma pamoka.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\Pirma pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\ref\Pirma pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\bin\Debug\net5.0\Pirma pamoka.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\ref\Pirma pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Pirma pamoka\Pirma pamoka\obj\Debug\net5.0\Pirma pamoka.genruntimeconfig.cache
