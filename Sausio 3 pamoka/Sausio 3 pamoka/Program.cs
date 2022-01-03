@@ -21,32 +21,92 @@ namespace Sausio_3_pamoka
 
             Console.WriteLine("{0} {1} {2}", letter2, letter1, letter);
 */
-            /* #2 UZDUOTIS*/
+            // 2 variantas
 
-            float distance;
-            float hour, min, sec;
+            /*string input = "abc";
 
-            float timeSec;
-            float mps;
-            float kph, mph;
+            char c = Convert.ToChar(input.Substring(2, 1));
+            char b = Convert.ToChar(input.Substring(1, 1));
+            char a = Convert.ToChar(input.Substring(0, 1));
+
+            Console.WriteLine($"{c}{b}{a}");*/
+
+            /*#2 UZDUOTIS*/
+
+            /*double distance, sec, kph;
 
             Console.Write("Input distance(metres): ");
-            distance = Convert.ToSingle(Console.ReadLine());
-            Console.Write("Input timeSec(hour): ");
-            hour = Convert.ToSingle(Console.ReadLine());
-            Console.Write("Input timeSec(minutes): ");
-            min = Convert.ToSingle(Console.ReadLine());
+            distance = Convert.ToDouble(Console.ReadLine());
             Console.Write("Input timeSec(seconds): ");
-            sec = Convert.ToSingle(Console.ReadLine());
+            sec = Convert.ToDouble(Console.ReadLine());
 
-            timeSec = (hour * 3600) + (min * 60) + sec;
-            mps = distance / timeSec;
-            kph = (distance / 1000.0f) / (timeSec / 3600.0f);
-            mph = kph / 1.609f;
+            kph = (distance / 1000.0d) / (sec / 3600d);
 
-            Console.WriteLine("Your speed in metres/sec is {0}", mps);
-            Console.WriteLine("Your speed in km/h is {0}", kph);
-            Console.WriteLine("Your speed in miles/h is {0}", mph);
+            Console.WriteLine("Your speed in km/h is {0}", kph);*/
+
+
+            // 2 variantas
+
+            /*int meters = 100;
+            int seconds = 8;
+
+            double meterPerSecond = meters / seconds;
+
+            metersPerSecond */
+
+            /*#3 UZDUOTIS Pakelk x 32 kartus praso ivesti rutulio diametra, o isveda plota ir turi*/
+
+            /*int x = 2;
+            int y = int.MaxValue;
+
+            Console.WirteLine(Math.Pow(x, 32));
+            Console.WriteLine(y);*/
+
+            /*double d = 10;
+            double r = d / 2;
+            double surfaceArea = 4 * Math.PI * Math.Pow(r, d);
+            double volume = 4 / 3 * Math.PI * Math.Pow(r, 3);
+
+            Console.WriteLine(surfaceArea);*/
+
+            /*#4 UZDUOTIS*/
+
+            /*int x = 1;
+            int y = 2;
+
+            //bool isXEven = (x % 2 == 0);
+            //bool isYEven = (y % 2 == 0);
+
+            bool isEven = ((x % 2 == 0) && (y % 2 == 0));
+
+            Console.WriteLine((x % 2 == 0) && (y % 2 == 0));
+*/
+            //#1 UZDUOTIS
+            /*Console.WriteLine(new String('1', 1));
+            Console.WriteLine(new String('1', 2));
+            Console.WriteLine(new String('1', 3));*/
+
+            //#2 UZDUOTIS
+
+            /*var username = "username";
+            var password = "password";
+
+            var usernameInput = Console.ReadLine();
+            var passwordInput = Console.ReadLine();
+
+            bool isCorrect = usernameInput.Equals(username) && passwordInput.Equals(password);
+            int numberOfTries = isCorrect ? 3 : 0;*/
+
+            //#3 UZDUOTIS
+
+            //tiesiog matematika
+
+            //#4 UZDUOTIS
+
+            /*var number = 12345.5D;
+            short number2 = Convert.ToInt16(number);
+            Console.WriteLine(number2);*/
+
         }
     }
 }
