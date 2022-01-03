@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sausio 3 pamoka", "Sausio 3 pamoka\Sausio 3 pamoka.csproj", "{7CE228FE-5179-4580-A02C-7A528E99CCAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CE228FE-5179-4580-A02C-7A528E99CCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE228FE-5179-4580-A02C-7A528E99CCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE228FE-5179-4580-A02C-7A528E99CCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE228FE-5179-4580-A02C-7A528E99CCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDBA93E3-7D6B-445B-9A0C-924B227A0155}
+	EndGlobalSection
+EndGlobal

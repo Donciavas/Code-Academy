@@ -58,7 +58,37 @@ namespace Pirma_pamoka
 
             //5 UZDUOTIS
 
+            /*string input = Console.ReadLine();
+            bool isEmpty = string.IsNullOrWhiteSpace(input);
+            Console.WriteLine(isEmpty);*/
+
+            //PAPILDOMOS EILUTES
+
+            /*string nullStr = null;
+            // print True
+            Console.WriteLine(String.IsNullOrEmpty(nullStr));
+
+            string emptyStr1 = "";
+            // print True
+            Console.WriteLine(String.IsNullOrEmpty(emptyStr1));
+
+            string emptyStr2 = String.Empty;
+            // print True
+            Console.WriteLine(String.IsNullOrEmpty(emptyStr2));
+
+            string str = "some text";
+            // print False
+            Console.WriteLine(String.IsNullOrEmpty(str));*/
+
             //6 UZDUOTIS Check if a number is lesser than 0.
+
+            //Console.WriteLine("Enter your number");
+            //int x;
+            //x = Convert.ToInt32(Console.ReadLine());
+            //string comparison = x < 0 ? "is lower than null" : "is greater than null";
+            //Console.WriteLine(comparison);
+
+            //Second solution
 
             //Console.WriteLine("Please write your number:");
             //int n = int.Parse(Console.ReadLine());
@@ -74,14 +104,37 @@ namespace Pirma_pamoka
 
             //7 UZDUOTIS Take name and lastname as separate inputs and output them in one line.
 
-            //string name;
-            //string lastname;
+            /*string name, lastname; 
 
-            //Console.WriteLine("Enter your name");
-            //name = Console.ReadLine();
-            //Console.WriteLine("Enter your last name");
-            //lastname = Console.ReadLine();
-            //Console.WriteLine($"{name} {lastname}");
+            Console.WriteLine("Enter your name");
+            name = Console.ReadLine();
+            Console.WriteLine("Enter your last name");
+            lastname = Console.ReadLine();
+            Console.WriteLine($"{name} {lastname}");*/
+
+            //PAPILDOMOS UZDUOTYS
+
+            //ALL TO LOWERCASE
+
+            /*Console.Write("Enter any text: ");
+            string theText = Console.ReadLine();
+            string convertedText = theText.ToLower();
+            Console.WriteLine(convertedText);
+
+            Console.ReadLine();
+
+            //SKAICIAUS LIEKANA IS 3 ir 7
+
+            Console.Write("Enter any number: ");
+            int anyNumber = Convert.ToInt32(Console.ReadLine());
+
+            string liekanaIs3 = anyNumber % 3 == 0 ? $"Skaicius {anyNumber} yra 3 kartorinis" : "";
+            string liekanaIs7 = anyNumber % 7 == 0 ? $"Skaicius {anyNumber} yra 7 kartotinis" : "";
+
+            Console.WriteLine(liekanaIs3);
+            Console.WriteLine(liekanaIs7);*/
+
         }
     }
 }
+ IAsyncResult 
