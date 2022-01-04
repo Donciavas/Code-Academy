@@ -109,7 +109,7 @@ namespace Sausio_3_pamoka
 
             //#1 Salygu uzduotis
 
-           /* Console.WriteLine("Iveskite grupes nariu kieki:");
+            Console.WriteLine("Iveskite grupes nariu kieki:");
 
             if (!int.TryParse(Console.ReadLine(), out int input))
             {
@@ -132,10 +132,14 @@ namespace Sausio_3_pamoka
             {
                 Console.WriteLine("Tai kamerinis ansamblis");
             }
+            else if (input == 10)
+            {
+                Console.WriteLine("Tai vis dar ansamblis");
+            }
             else
             {
                 Console.WriteLine("int.TryParse failed on user input");
-                Environment.Exit(1);*/
+                Environment.Exit(1);
             }
         }
     }
