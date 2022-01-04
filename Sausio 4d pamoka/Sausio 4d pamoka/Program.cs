@@ -82,8 +82,22 @@ namespace Sausio_4d_pamoka
                 }
             }*/
 
-            //2 UZDUOTIS
+            //2 UZDUOTIS Nupiesti piramide is pasirinkto skaiciaus eiluciu
 
+            /*Console.WriteLine("Iveskite skaiciu eiluciu");
+            int kiekis = Convert.ToInt32(Console.ReadLine()), vieta, simbolis;
+            Console.WriteLine("Spausdinam piramide");
+            for (int i=1; i<= kiekis; i++)
+            {
+                for (vieta = 1; vieta <= (kiekis - i); vieta++)
+                    Console.Write(" ");
+                for (simbolis = 1; simbolis <= i; simbolis++)
+                    Console.Write("* ");
+
+                Console.WriteLine();
+            }*/
+
+            //3 UZDUOTIS
 
         }
     }
