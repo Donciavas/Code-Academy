@@ -137,4 +137,3 @@ namespace Pirma_pamoka
         }
     }
 }
- IAsyncResult 
