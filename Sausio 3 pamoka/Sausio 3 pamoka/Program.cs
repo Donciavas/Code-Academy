@@ -109,7 +109,7 @@ namespace Sausio_3_pamoka
 
             //#1 Salygu uzduotis
 
-            Console.WriteLine("Iveskite grupes nariu kieki:");
+            /*Console.WriteLine("Iveskite grupes nariu kieki:");
 
             if (!int.TryParse(Console.ReadLine(), out int input))
             {
@@ -139,8 +139,19 @@ namespace Sausio_3_pamoka
             else
             {
                 Console.WriteLine("int.TryParse failed on user input");
-                Environment.Exit(1);
+                Environment.Exit(1);*/
+
+            /*Console.Write("Enter a number: ");
+            int inputNumber = Convert.ToInt32(Console.ReadLine());
+            int sum = 0;
+
+            for (int i = 1; i <= inputNumber; i++)
+                sum += 1;
+            { 
             }
+        Console.Write(sum);*/
+
+
         }
     }
 }

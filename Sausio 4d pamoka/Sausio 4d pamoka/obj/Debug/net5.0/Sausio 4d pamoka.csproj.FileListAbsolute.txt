@@ -1,0 +1,15 @@
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\bin\Debug\net5.0\Sausio 4d pamoka.exe
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\bin\Debug\net5.0\Sausio 4d pamoka.deps.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\bin\Debug\net5.0\Sausio 4d pamoka.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\bin\Debug\net5.0\Sausio 4d pamoka.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\bin\Debug\net5.0\Sausio 4d pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\bin\Debug\net5.0\ref\Sausio 4d pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\bin\Debug\net5.0\Sausio 4d pamoka.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\obj\Debug\net5.0\Sausio 4d pamoka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\obj\Debug\net5.0\Sausio 4d pamoka.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\obj\Debug\net5.0\Sausio 4d pamoka.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\obj\Debug\net5.0\Sausio 4d pamoka.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\obj\Debug\net5.0\Sausio 4d pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\obj\Debug\net5.0\ref\Sausio 4d pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\obj\Debug\net5.0\Sausio 4d pamoka.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 4d pamoka\Sausio 4d pamoka\obj\Debug\net5.0\Sausio 4d pamoka.genruntimeconfig.cache
