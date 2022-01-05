@@ -97,7 +97,8 @@ namespace Sausio_4d_pamoka
                 Console.WriteLine();
             }*/
 
-            //3 UZDUOTIS
+            //1 UZDUOTIS
+
 
         }
     }
