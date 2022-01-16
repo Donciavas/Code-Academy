@@ -1,0 +1,15 @@
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\obj\Debug\net5.0\Sausio 12 d pamoka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\obj\Debug\net5.0\Sausio 12 d pamoka.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\obj\Debug\net5.0\Sausio 12 d pamoka.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\obj\Debug\net5.0\Sausio 12 d pamoka.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\bin\Debug\net5.0\Sausio 12 d pamoka.exe
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\bin\Debug\net5.0\Sausio 12 d pamoka.deps.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\bin\Debug\net5.0\Sausio 12 d pamoka.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\bin\Debug\net5.0\Sausio 12 d pamoka.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\bin\Debug\net5.0\Sausio 12 d pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\bin\Debug\net5.0\ref\Sausio 12 d pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\bin\Debug\net5.0\Sausio 12 d pamoka.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\obj\Debug\net5.0\Sausio 12 d pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\obj\Debug\net5.0\ref\Sausio 12 d pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\obj\Debug\net5.0\Sausio 12 d pamoka.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\Pirma Pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\Sausio 12 d pamoka\obj\Debug\net5.0\Sausio 12 d pamoka.genruntimeconfig.cache
