@@ -1,1 +1,2 @@
 # pirmaPamoka
+# CodeAcademy_Pamokos
