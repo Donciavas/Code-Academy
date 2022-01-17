@@ -1,0 +1,7 @@
+﻿'Sausio 13 d pamoka.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Sausio 13 d pamoka.exe' (CoreCLR: clrhost): Loaded 'C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 13 d pamoka\Sausio 13 d pamoka\Sausio 13 d pamoka\bin\Debug\net5.0\Sausio 13 d pamoka.dll'. Symbols loaded.
+'Sausio 13 d pamoka.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Sausio 13 d pamoka.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Sausio 13 d pamoka.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Sausio 13 d pamoka.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.13\System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The program '[14444] Sausio 13 d pamoka.exe' has exited with code 0 (0x0).

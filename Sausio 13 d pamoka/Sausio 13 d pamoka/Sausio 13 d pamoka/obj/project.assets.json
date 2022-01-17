@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dvitk\\OneDrive\\Documents\\CodeAcademy\\Pirma Pamoka\\Sausio 13 d pamoka\\Sausio 13 d pamoka\\Sausio 13 d pamoka\\Sausio 13 d pamoka.csproj",
+      "projectUniqueName": "C:\\Users\\dvitk\\OneDrive\\Documents\\CodeAcademy\\C#.net\\Sausio 13 d pamoka\\Sausio 13 d pamoka\\Sausio 13 d pamoka\\Sausio 13 d pamoka.csproj",
       "projectName": "Sausio 13 d pamoka",
-      "projectPath": "C:\\Users\\dvitk\\OneDrive\\Documents\\CodeAcademy\\Pirma Pamoka\\Sausio 13 d pamoka\\Sausio 13 d pamoka\\Sausio 13 d pamoka\\Sausio 13 d pamoka.csproj",
+      "projectPath": "C:\\Users\\dvitk\\OneDrive\\Documents\\CodeAcademy\\C#.net\\Sausio 13 d pamoka\\Sausio 13 d pamoka\\Sausio 13 d pamoka\\Sausio 13 d pamoka.csproj",
       "packagesPath": "C:\\Users\\dvitk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dvitk\\OneDrive\\Documents\\CodeAcademy\\Pirma Pamoka\\Sausio 13 d pamoka\\Sausio 13 d pamoka\\Sausio 13 d pamoka\\obj\\",
+      "outputPath": "C:\\Users\\dvitk\\OneDrive\\Documents\\CodeAcademy\\C#.net\\Sausio 13 d pamoka\\Sausio 13 d pamoka\\Sausio 13 d pamoka\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dvitk\\AppData\\Roaming\\NuGet\\NuGet.Config",
