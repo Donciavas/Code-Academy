@@ -5,7 +5,6 @@ C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 1
 C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\bin\Debug\net5.0\Sausio 18 d pamoka.dll
 C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\bin\Debug\net5.0\ref\Sausio 18 d pamoka.dll
 C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\bin\Debug\net5.0\Sausio 18 d pamoka.pdb
-C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\obj\Debug\net5.0\Sausio 18 d pamoka.csproj.AssemblyReference.cache
 C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\obj\Debug\net5.0\Sausio 18 d pamoka.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\obj\Debug\net5.0\Sausio 18 d pamoka.AssemblyInfoInputs.cache
 C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\obj\Debug\net5.0\Sausio 18 d pamoka.AssemblyInfo.cs

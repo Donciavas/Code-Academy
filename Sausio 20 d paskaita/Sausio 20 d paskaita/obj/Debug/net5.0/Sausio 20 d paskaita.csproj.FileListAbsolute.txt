@@ -3,3 +3,14 @@ C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio
 C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\obj\Debug\net5.0\Sausio 20 d paskaita.AssemblyInfoInputs.cache
 C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\obj\Debug\net5.0\Sausio 20 d paskaita.AssemblyInfo.cs
 C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\obj\Debug\net5.0\Sausio 20 d paskaita.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\bin\Debug\net5.0\Sausio 20 d paskaita.exe
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\bin\Debug\net5.0\Sausio 20 d paskaita.deps.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\bin\Debug\net5.0\Sausio 20 d paskaita.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\bin\Debug\net5.0\Sausio 20 d paskaita.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\bin\Debug\net5.0\Sausio 20 d paskaita.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\bin\Debug\net5.0\ref\Sausio 20 d paskaita.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\bin\Debug\net5.0\Sausio 20 d paskaita.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\obj\Debug\net5.0\Sausio 20 d paskaita.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\obj\Debug\net5.0\ref\Sausio 20 d paskaita.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\obj\Debug\net5.0\Sausio 20 d paskaita.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\obj\Debug\net5.0\Sausio 20 d paskaita.genruntimeconfig.cache

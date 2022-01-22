@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\bin\Debug\net5.0\Sausio 19 d paskaita.exe
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\bin\Debug\net5.0\Sausio 19 d paskaita.deps.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\bin\Debug\net5.0\Sausio 19 d paskaita.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\bin\Debug\net5.0\Sausio 19 d paskaita.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\bin\Debug\net5.0\Sausio 19 d paskaita.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\bin\Debug\net5.0\ref\Sausio 19 d paskaita.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\bin\Debug\net5.0\Sausio 19 d paskaita.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\obj\Debug\net5.0\Sausio 19 d paskaita.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\obj\Debug\net5.0\Sausio 19 d paskaita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\obj\Debug\net5.0\Sausio 19 d paskaita.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\obj\Debug\net5.0\Sausio 19 d paskaita.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\obj\Debug\net5.0\Sausio 19 d paskaita.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\obj\Debug\net5.0\Sausio 19 d paskaita.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\obj\Debug\net5.0\ref\Sausio 19 d paskaita.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\obj\Debug\net5.0\Sausio 19 d paskaita.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 19 d paskaita\Sausio 19 d paskaita\obj\Debug\net5.0\Sausio 19 d paskaita.genruntimeconfig.cache

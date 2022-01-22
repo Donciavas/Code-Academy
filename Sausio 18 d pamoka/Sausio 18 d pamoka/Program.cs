@@ -18,7 +18,7 @@ namespace Sausio_18_d_pamoka
             #endregion
 
             //Problem1();
-            Problem2();
+            //Problem2();
 
         }
 
