@@ -10,7 +10,27 @@
       "ProjectGuid": "9c06c1fa-f6a3-421b-b8b5-810197e9981d",
       "DisplayName": "TestProject1",
       "ColorIndex": 1
+    },
+    "b8551550-f227-4d36-8784-b6ef96fd3f0b": {
+      "ProjectGuid": "b8551550-f227-4d36-8784-b6ef96fd3f0b",
+      "DisplayName": "xUnitTest1",
+      "ColorIndex": 2
+    },
+    "a1ecf8fb-0438-4792-9343-01d475ed679b": {
+      "ProjectGuid": "a1ecf8fb-0438-4792-9343-01d475ed679b",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 3
+    },
+    "6bdcb7a9-8f9c-4086-a479-7acd5706b89b": {
+      "ProjectGuid": "6bdcb7a9-8f9c-4086-a479-7acd5706b89b",
+      "DisplayName": "xUnitTest1",
+      "ColorIndex": 4
+    },
+    "0a72a8de-2309-4e42-8d1e-1b52bdc74adf": {
+      "ProjectGuid": "0a72a8de-2309-4e42-8d1e-1b52bdc74adf",
+      "DisplayName": "TestProject3",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }
