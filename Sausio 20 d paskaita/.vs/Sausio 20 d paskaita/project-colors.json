@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "33c90597-7518-4829-a1e6-9e27a7b787c8": {
+      "ProjectGuid": "33c90597-7518-4829-a1e6-9e27a7b787c8",
+      "DisplayName": "Sausio 20 d paskaita",
+      "ColorIndex": 0
+    },
+    "844c2896-1ac4-42bb-9493-d819baf1b1ff": {
+      "ProjectGuid": "844c2896-1ac4-42bb-9493-d819baf1b1ff",
+      "DisplayName": "BookRepository",
+      "ColorIndex": 1
+    },
+    "3f3abaa2-e8ba-40cc-ab9b-e21d5e66d9bf": {
+      "ProjectGuid": "3f3abaa2-e8ba-40cc-ab9b-e21d5e66d9bf",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

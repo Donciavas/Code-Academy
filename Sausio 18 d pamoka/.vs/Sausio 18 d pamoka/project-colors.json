@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b4b2cf7-ce76-4434-984f-3a4bf320a386": {
+      "ProjectGuid": "6b4b2cf7-ce76-4434-984f-3a4bf320a386",
+      "DisplayName": "Sausio 18 d pamoka",
+      "ColorIndex": 0
+    },
+    "31a113ec-04f1-462a-bc2c-d1ce400af020": {
+      "ProjectGuid": "31a113ec-04f1-462a-bc2c-d1ce400af020",
+      "DisplayName": "Sausio 18 d pamoka.UnitTest1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

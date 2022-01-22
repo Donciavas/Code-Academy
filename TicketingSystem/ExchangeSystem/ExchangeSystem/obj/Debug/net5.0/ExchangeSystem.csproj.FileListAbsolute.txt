@@ -1,0 +1,15 @@
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\bin\Debug\net5.0\ExchangeSystem.exe
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\bin\Debug\net5.0\ExchangeSystem.deps.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\bin\Debug\net5.0\ExchangeSystem.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\bin\Debug\net5.0\ExchangeSystem.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\bin\Debug\net5.0\ExchangeSystem.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\bin\Debug\net5.0\ref\ExchangeSystem.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\bin\Debug\net5.0\ExchangeSystem.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\obj\Debug\net5.0\ExchangeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\obj\Debug\net5.0\ExchangeSystem.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\obj\Debug\net5.0\ExchangeSystem.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\obj\Debug\net5.0\ExchangeSystem.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\obj\Debug\net5.0\ExchangeSystem.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\obj\Debug\net5.0\ref\ExchangeSystem.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\obj\Debug\net5.0\ExchangeSystem.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\ExchangeSystem\ExchangeSystem\obj\Debug\net5.0\ExchangeSystem.genruntimeconfig.cache

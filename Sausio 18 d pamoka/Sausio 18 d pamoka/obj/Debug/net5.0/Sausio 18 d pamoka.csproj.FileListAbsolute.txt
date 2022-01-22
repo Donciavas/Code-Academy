@@ -1,0 +1,16 @@
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\bin\Debug\net5.0\Sausio 18 d pamoka.exe
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\bin\Debug\net5.0\Sausio 18 d pamoka.deps.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\bin\Debug\net5.0\Sausio 18 d pamoka.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\bin\Debug\net5.0\Sausio 18 d pamoka.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\bin\Debug\net5.0\Sausio 18 d pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\bin\Debug\net5.0\ref\Sausio 18 d pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\bin\Debug\net5.0\Sausio 18 d pamoka.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\obj\Debug\net5.0\Sausio 18 d pamoka.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\obj\Debug\net5.0\Sausio 18 d pamoka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\obj\Debug\net5.0\Sausio 18 d pamoka.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\obj\Debug\net5.0\Sausio 18 d pamoka.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\obj\Debug\net5.0\Sausio 18 d pamoka.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\obj\Debug\net5.0\Sausio 18 d pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\obj\Debug\net5.0\ref\Sausio 18 d pamoka.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\obj\Debug\net5.0\Sausio 18 d pamoka.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 18 d pamoka\Sausio 18 d pamoka\obj\Debug\net5.0\Sausio 18 d pamoka.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c7e44ec-508f-4955-b0d0-002c368cf0a1": {
+      "ProjectGuid": "2c7e44ec-508f-4955-b0d0-002c368cf0a1",
+      "DisplayName": "TicketingSystem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

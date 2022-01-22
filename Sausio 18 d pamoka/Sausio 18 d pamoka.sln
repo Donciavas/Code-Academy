@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sausio 18 d pamoka", "Sausio 18 d pamoka\Sausio 18 d pamoka.csproj", "{6B4B2CF7-CE76-4434-984F-3A4BF320A386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sausio 18 d pamoka.UnitTest1", "Sausio 18 d pamoka.UnitTest1\Sausio 18 d pamoka.UnitTest1.csproj", "{31A113EC-04F1-462A-BC2C-D1CE400AF020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4B2CF7-CE76-4434-984F-3A4BF320A386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4B2CF7-CE76-4434-984F-3A4BF320A386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4B2CF7-CE76-4434-984F-3A4BF320A386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4B2CF7-CE76-4434-984F-3A4BF320A386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A113EC-04F1-462A-BC2C-D1CE400AF020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A113EC-04F1-462A-BC2C-D1CE400AF020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A113EC-04F1-462A-BC2C-D1CE400AF020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A113EC-04F1-462A-BC2C-D1CE400AF020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A64EED04-2619-46FD-BD6F-D0AA61D5E209}
+	EndGlobalSection
+EndGlobal

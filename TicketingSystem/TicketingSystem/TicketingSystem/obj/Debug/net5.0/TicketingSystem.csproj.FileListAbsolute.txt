@@ -1,0 +1,15 @@
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\bin\Debug\net5.0\TicketingSystem.exe
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\bin\Debug\net5.0\TicketingSystem.deps.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\bin\Debug\net5.0\TicketingSystem.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\bin\Debug\net5.0\TicketingSystem.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\bin\Debug\net5.0\TicketingSystem.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\bin\Debug\net5.0\ref\TicketingSystem.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\bin\Debug\net5.0\TicketingSystem.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\obj\Debug\net5.0\TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\obj\Debug\net5.0\TicketingSystem.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\obj\Debug\net5.0\TicketingSystem.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\obj\Debug\net5.0\TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\obj\Debug\net5.0\TicketingSystem.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\obj\Debug\net5.0\ref\TicketingSystem.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\obj\Debug\net5.0\TicketingSystem.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TicketingSystem\TicketingSystem\TicketingSystem\obj\Debug\net5.0\TicketingSystem.genruntimeconfig.cache

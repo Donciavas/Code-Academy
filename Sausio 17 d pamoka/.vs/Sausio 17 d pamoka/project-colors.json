@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b67c0523-6343-4f82-9687-4deb79726bd1": {
+      "ProjectGuid": "b67c0523-6343-4f82-9687-4deb79726bd1",
+      "DisplayName": "Sausio 17 d pamoka",
+      "ColorIndex": 0
+    },
+    "9c06c1fa-f6a3-421b-b8b5-810197e9981d": {
+      "ProjectGuid": "9c06c1fa-f6a3-421b-b8b5-810197e9981d",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

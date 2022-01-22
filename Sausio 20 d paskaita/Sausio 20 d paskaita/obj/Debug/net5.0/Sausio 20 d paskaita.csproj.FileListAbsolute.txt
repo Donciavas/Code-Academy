@@ -1,0 +1,5 @@
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\obj\Debug\net5.0\Sausio 20 d paskaita.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\obj\Debug\net5.0\Sausio 20 d paskaita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\obj\Debug\net5.0\Sausio 20 d paskaita.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\obj\Debug\net5.0\Sausio 20 d paskaita.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 20 d paskaita\Sausio 20 d paskaita\obj\Debug\net5.0\Sausio 20 d paskaita.csproj.CoreCompileInputs.cache
