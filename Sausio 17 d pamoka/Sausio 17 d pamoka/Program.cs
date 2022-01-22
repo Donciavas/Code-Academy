@@ -5,7 +5,7 @@ namespace Sausio_17_d_pamoka
 {
     public class Program
     {
-        #region TEORIJA - YouTube
+        /*#region TEORIJA - YouTube
 
         struct Car
         {
@@ -22,14 +22,14 @@ namespace Sausio_17_d_pamoka
             public float HourlyWage;
             public bool CompletedTraining;
         }
-        #endregion
+        #endregion*/
 
         #region Problem1_STRUCT
         // Sukurti struktūrą Mokinys su laukais vardas, pavardė, kurso pradžia
         // ir kurso pabaiga.Sukurti kintamąjį mokinys, užpildyti laukus
         // ir išvesti į konsolę
 
-        struct Mokinys
+        struct Student
         {
             public string name;
             public string lastName;
@@ -41,28 +41,15 @@ namespace Sausio_17_d_pamoka
         #region Problem2_STRUCT
         // Sukurti struktūrą BibliotekosKnyga su laukais
         // ID, pavadinimas, skaitytojo vardas, paėmimo data.
-        // Struktūroje sukuti metodą, kuris gražina kiek dienų knyga jau pas
+        // Struktūroje sukurti metodą, kuris gražina kiek dienų knyga jau pas
         // skaitytoją. Padaryti kintamąjį rezultatą išvesti į konsolę.
 
-        struct BibliotekosKnyga
+        struct LibraryBook
         {
             public string ID;
-            public string pavadinimas;
-            public string skaitytojoVardas;
-            public DateTime paemimoData;
-        }
-        #endregion
-
-        #region Problem3_STRUCT
-        // Sukurti struktūrą Stačiakampis su laukais ilgis ir plotis.
-        // Struktūroje sukurti metodą Plotas().
-        // Sukurti 3 kintamuosius stačiakampis 1, 2, 3 užpildyti laukus
-        // ir išvesti plotus į konsolę.
-
-        struct Rectangle
-        {
-            public float lenght;
-            public float width;
+            public string name;
+            public string readersName;
+            public DateTime theDayItWasTaken;
         }
         #endregion
 
@@ -70,7 +57,7 @@ namespace Sausio_17_d_pamoka
         {
             Console.WriteLine("Sausio 17 d pamoka");
             Console.WriteLine("Structures (struct)");
-            Console.WriteLine("NUnit tests");
+            Console.WriteLine("NUnit tests\r\n");
 
             #region TEORIJA - STRUCTURES (YouTube)
 
@@ -99,14 +86,14 @@ namespace Sausio_17_d_pamoka
             //car1.Year = int.Parse(Console.ReadLine());
             //Console.WriteLine("Whats the price?");
             //car1.Price = float.Parse(Console.ReadLine());
-
+/*
             Employee employee1;
 
             employee1.FristName = "Donatas";
             employee1.LastName = "Vitkus";
             employee1.HourlyWage = 10f;
             employee1.CompletedTraining = true;
-
+*/
 
             // 
             // 
@@ -158,8 +145,8 @@ namespace Sausio_17_d_pamoka
             //Problem7();
             //Problem8();
             //Problem9("Labas");
-            Problem10_12.Problem10("Labas");
-            Problem10_12.Problem11(10);
+            //Problem10_12.Problem10("Labas");
+            //Problem10_12.Problem11(10);
             //Problem12();
 
 
@@ -177,13 +164,14 @@ namespace Sausio_17_d_pamoka
             // ir kurso pabaiga.Sukurti kintamąjį mokinys, užpildyti laukus
             // ir išvesti į konsolę
 
-            Mokinys mokinys1;
-            mokinys1.name = "Donatas";
-            mokinys1.lastName = "Vitkus";
-            mokinys1.courseStart = new DateTime(2021, 12, 20);
-            mokinys1.courseEnd = new DateTime(2022, 07, 20);
+            Student student1;
 
-            Console.WriteLine($"{mokinys1.name}, {mokinys1.lastName}, {mokinys1.courseStart}, {mokinys1.courseEnd}");
+            student1.name = "Donatas";
+            student1.lastName = "Vitkus";
+            student1.courseStart = new DateTime(2021, 12, 20);
+            student1.courseEnd = new DateTime(2022, 07, 20);
+
+            Console.WriteLine($"{student1.name}, {student1.lastName}, {student1.courseStart}, {student1.courseEnd}");
 
         }
 
@@ -194,22 +182,22 @@ namespace Sausio_17_d_pamoka
             // Struktūroje sukuti metodą, kuris gražina kiek dienų knyga jau pas
             // skaitytoją. Padaryti kintamąjį rezultatą išvesti į konsolę.
 
-            BibliotekosKnyga bibliotekosKnyga1;
-            bibliotekosKnyga1.ID = "303";
-            bibliotekosKnyga1.pavadinimas = "Atsparumas";
-            bibliotekosKnyga1.skaitytojoVardas = "Donatas";
-            bibliotekosKnyga1.paemimoData = new DateTime(2021, 12, 31);
+            LibraryBook libraryBook1;
+            libraryBook1.ID = "303";
+            libraryBook1.name = "Atsparumas";
+            libraryBook1.readersName = "Donatas";
+            libraryBook1.theDayItWasTaken = new DateTime(2021, 12, 31);
 
-            Console.WriteLine($"{bibliotekosKnyga1.ID}, {bibliotekosKnyga1.pavadinimas}," +
-                $"{bibliotekosKnyga1.skaitytojoVardas}, {bibliotekosKnyga1.paemimoData}");
+            Console.WriteLine($"{libraryBook1.ID}, {libraryBook1.name}," +
+                $"{libraryBook1.readersName}, {libraryBook1.theDayItWasTaken}");
             //Console.WriteLine(Problem2_addOn(bibliotekosKnyga1.paemimoData));
-            Problem2_addOn(bibliotekosKnyga1.paemimoData);
+            Problem2_addOn(libraryBook1.theDayItWasTaken);
 
         }
 
-        public static void Problem2_addOn(DateTime paemimoData)
+        public static void Problem2_addOn(DateTime theDayItWasTaken)
         {
-            System.TimeSpan diff = DateTime.Today.Subtract(paemimoData);
+            System.TimeSpan diff = DateTime.Today.Subtract(theDayItWasTaken);
             Console.WriteLine(diff.ToString("dd"));
         }
 
@@ -220,13 +208,13 @@ namespace Sausio_17_d_pamoka
             // Sukurti 3 kintamuosius stačiakampis 1, 2, 3 užpildyti laukus
             // ir išvesti plotus į konsolę.
 
-            var sq1 = new Problem3_StuctCtor(1, 2);
+            var sq1 = new Problem3_Rectangle_StuctCtoR(1, 2);
             sq1.PrintValues();
 
-            var sq2 = new Problem3_StuctCtor(2, 3);
+            var sq2 = new Problem3_Rectangle_StuctCtoR(2, 3);
             sq2.PrintValues();
 
-            var sq3 = new Problem3_StuctCtor(3, 4);
+            var sq3 = new Problem3_Rectangle_StuctCtoR(3, 4);
             sq3.PrintValues();
         }
 

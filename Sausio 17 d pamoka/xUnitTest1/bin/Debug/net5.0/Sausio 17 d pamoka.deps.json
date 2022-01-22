@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sausio 17 d pamoka/1.0.0": {
+        "runtime": {
+          "Sausio 17 d pamoka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sausio 17 d pamoka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
