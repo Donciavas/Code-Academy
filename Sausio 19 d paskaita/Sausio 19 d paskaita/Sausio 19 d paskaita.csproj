@@ -6,4 +6,8 @@
     <RootNamespace>Sausio_19_d_paskaita</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Models\Models.csproj" />
+  </ItemGroup>
+
 </Project>
