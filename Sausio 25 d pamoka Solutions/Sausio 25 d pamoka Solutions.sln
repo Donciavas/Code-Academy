@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sausio 25 d pamoka Solutions", "Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions.csproj", "{667C2805-39E5-42BB-90FB-52B043CB7393}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{8A6E5DE3-4DAB-4611-83DE-6B633ACAA92B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{EABB048D-2044-43B8-8259-3158C5E896ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667C2805-39E5-42BB-90FB-52B043CB7393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667C2805-39E5-42BB-90FB-52B043CB7393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667C2805-39E5-42BB-90FB-52B043CB7393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667C2805-39E5-42BB-90FB-52B043CB7393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EABB048D-2044-43B8-8259-3158C5E896ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABB048D-2044-43B8-8259-3158C5E896ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABB048D-2044-43B8-8259-3158C5E896ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABB048D-2044-43B8-8259-3158C5E896ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EABB048D-2044-43B8-8259-3158C5E896ED} = {8A6E5DE3-4DAB-4611-83DE-6B633ACAA92B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05D960AD-4811-4E68-80FE-26E375C9F713}
+	EndGlobalSection
+EndGlobal

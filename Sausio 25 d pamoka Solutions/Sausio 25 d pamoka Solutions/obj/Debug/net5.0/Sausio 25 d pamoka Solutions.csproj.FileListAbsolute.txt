@@ -1,0 +1,19 @@
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\obj\Debug\net5.0\Sausio 25 d pamoka Solutions.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\obj\Debug\net5.0\Sausio 25 d pamoka Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\obj\Debug\net5.0\Sausio 25 d pamoka Solutions.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\obj\Debug\net5.0\Sausio 25 d pamoka Solutions.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\obj\Debug\net5.0\Sausio 25 d pamoka Solutions.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\bin\Debug\net5.0\Sausio 25 d pamoka Solutions.exe
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\bin\Debug\net5.0\Sausio 25 d pamoka Solutions.deps.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\bin\Debug\net5.0\Sausio 25 d pamoka Solutions.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\bin\Debug\net5.0\Sausio 25 d pamoka Solutions.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\bin\Debug\net5.0\Sausio 25 d pamoka Solutions.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\bin\Debug\net5.0\ref\Sausio 25 d pamoka Solutions.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\bin\Debug\net5.0\Sausio 25 d pamoka Solutions.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\bin\Debug\net5.0\Models.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\bin\Debug\net5.0\Models.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\obj\Debug\net5.0\Sausio 25 d pamoka Solutions.csproj.CopyComplete
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\obj\Debug\net5.0\Sausio 25 d pamoka Solutions.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\obj\Debug\net5.0\ref\Sausio 25 d pamoka Solutions.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\obj\Debug\net5.0\Sausio 25 d pamoka Solutions.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions\obj\Debug\net5.0\Sausio 25 d pamoka Solutions.genruntimeconfig.cache

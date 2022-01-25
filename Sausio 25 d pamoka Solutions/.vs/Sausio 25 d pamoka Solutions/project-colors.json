@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "667c2805-39e5-42bb-90fb-52b043cb7393": {
+      "ProjectGuid": "667c2805-39e5-42bb-90fb-52b043cb7393",
+      "DisplayName": "Sausio 25 d pamoka Solutions",
+      "ColorIndex": 0
+    },
+    "eabb048d-2044-43b8-8259-3158c5e896ed": {
+      "ProjectGuid": "eabb048d-2044-43b8-8259-3158c5e896ed",
+      "DisplayName": "Models",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -68,11 +68,11 @@ namespace TV_Programme___TV_Show___Add_or_Remove
             //          Extract TV Programme functionality to separate TVProgrammeService
 
             var random = new Random();
-            var show1 = new TV_Show((random.Next(25, 55)), "Lord of the Rings I", "Horde and Alliance war", "12:00");
-            var show2 = new TV_Show((random.Next(25, 55)), "Lord of the Rings II", "Horde and Alliance war", "16:00");
-            var show3 = new TV_Show((random.Next(25, 55)), "Lord of the Rings III", "Horde and Alliance war", "20:00");
-            var show4 = new TV_Show((random.Next(25, 55)), "Harry Potter I", "Adventure of Sorcerer-wizard", "14:00");
-            var show5 = new TV_Show((random.Next(25, 55)), "Harry Potter II", "Adventure of Sorcerer-wizard", "17:00");
+            var show1 = new TV_Show((random.Next(120, 180)), "Lord of the Rings I", "Horde and Alliance war", "12:00");
+            var show2 = new TV_Show((random.Next(120, 180)), "Lord of the Rings II", "Horde and Alliance war", "16:00");
+            var show3 = new TV_Show((random.Next(120, 180)), "Lord of the Rings III", "Horde and Alliance war", "20:00");
+            var show4 = new TV_Show((random.Next(120, 180)), "Harry Potter I", "Adventure of Sorcerer-wizard", "14:00");
+            var show5 = new TV_Show((random.Next(120, 180)), "Harry Potter II", "Adventure of Sorcerer-wizard", "17:00");
 
             //M         Add TV show
 
