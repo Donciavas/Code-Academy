@@ -1,0 +1,12 @@
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TV Programme - TV Show - Add or Remove\TV Models\bin\Debug\net5.0\TV Models.deps.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TV Programme - TV Show - Add or Remove\TV Models\bin\Debug\net5.0\TV Models.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TV Programme - TV Show - Add or Remove\TV Models\bin\Debug\net5.0\ref\TV Models.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TV Programme - TV Show - Add or Remove\TV Models\bin\Debug\net5.0\TV Models.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TV Programme - TV Show - Add or Remove\TV Models\obj\Debug\net5.0\TV Models.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TV Programme - TV Show - Add or Remove\TV Models\obj\Debug\net5.0\TV Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TV Programme - TV Show - Add or Remove\TV Models\obj\Debug\net5.0\TV Models.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TV Programme - TV Show - Add or Remove\TV Models\obj\Debug\net5.0\TV Models.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TV Programme - TV Show - Add or Remove\TV Models\obj\Debug\net5.0\TV Models.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TV Programme - TV Show - Add or Remove\TV Models\obj\Debug\net5.0\TV Models.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TV Programme - TV Show - Add or Remove\TV Models\obj\Debug\net5.0\ref\TV Models.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\TV Programme - TV Show - Add or Remove\TV Models\obj\Debug\net5.0\TV Models.pdb

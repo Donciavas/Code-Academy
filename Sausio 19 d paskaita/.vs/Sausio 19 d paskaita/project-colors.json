@@ -5,7 +5,22 @@
       "ProjectGuid": "7b97159a-1c99-4069-a7b8-a9a1ccaabca7",
       "DisplayName": "Sausio 19 d paskaita",
       "ColorIndex": 0
+    },
+    "1a3ccfcb-41a2-4676-9e2c-45c9fa54a925": {
+      "ProjectGuid": "1a3ccfcb-41a2-4676-9e2c-45c9fa54a925",
+      "DisplayName": "Models",
+      "ColorIndex": 1
+    },
+    "d07a51cb-e93c-4025-86d8-573e90e52f53": {
+      "ProjectGuid": "d07a51cb-e93c-4025-86d8-573e90e52f53",
+      "DisplayName": "xUnit_Problem2",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

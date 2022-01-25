@@ -1,0 +1,11 @@
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Models\bin\Debug\net5.0\Sausio 25 d pamoka.Models.deps.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Models\bin\Debug\net5.0\Sausio 25 d pamoka.Models.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Models\bin\Debug\net5.0\ref\Sausio 25 d pamoka.Models.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Models\bin\Debug\net5.0\Sausio 25 d pamoka.Models.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Models\obj\Debug\net5.0\Sausio 25 d pamoka.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Models\obj\Debug\net5.0\Sausio 25 d pamoka.Models.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Models\obj\Debug\net5.0\Sausio 25 d pamoka.Models.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Models\obj\Debug\net5.0\Sausio 25 d pamoka.Models.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Models\obj\Debug\net5.0\Sausio 25 d pamoka.Models.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Models\obj\Debug\net5.0\ref\Sausio 25 d pamoka.Models.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Models\obj\Debug\net5.0\Sausio 25 d pamoka.Models.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "255fe5fd-1890-4c77-adf1-0193b975aa24": {
+      "ProjectGuid": "255fe5fd-1890-4c77-adf1-0193b975aa24",
+      "DisplayName": "BookSavingInExternalTxtFile",
+      "ColorIndex": 0
+    },
+    "1285ef80-b122-44e0-bcbb-0da10a034360": {
+      "ProjectGuid": "1285ef80-b122-44e0-bcbb-0da10a034360",
+      "DisplayName": "Sausio 25 d pamoka.Models",
+      "ColorIndex": 1
+    },
+    "51dcf705-fa9f-42cb-9476-224beacdae49": {
+      "ProjectGuid": "51dcf705-fa9f-42cb-9476-224beacdae49",
+      "DisplayName": "Sausio_25_d_pamoka.UnitTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

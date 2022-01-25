@@ -1,0 +1,19 @@
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\bin\Debug\net5.0\BookSavingInExternalTxtFile.exe
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\bin\Debug\net5.0\BookSavingInExternalTxtFile.deps.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\bin\Debug\net5.0\BookSavingInExternalTxtFile.runtimeconfig.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\bin\Debug\net5.0\BookSavingInExternalTxtFile.runtimeconfig.dev.json
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\bin\Debug\net5.0\BookSavingInExternalTxtFile.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\bin\Debug\net5.0\ref\BookSavingInExternalTxtFile.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\bin\Debug\net5.0\BookSavingInExternalTxtFile.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\bin\Debug\net5.0\Sausio 25 d pamoka.Models.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\bin\Debug\net5.0\Sausio 25 d pamoka.Models.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\obj\Debug\net5.0\BookSavingInExternalTxtFile.csproj.AssemblyReference.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\obj\Debug\net5.0\BookSavingInExternalTxtFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\obj\Debug\net5.0\BookSavingInExternalTxtFile.AssemblyInfoInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\obj\Debug\net5.0\BookSavingInExternalTxtFile.AssemblyInfo.cs
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\obj\Debug\net5.0\BookSavingInExternalTxtFile.csproj.CoreCompileInputs.cache
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\obj\Debug\net5.0\BookSavingInExternalTxtFile.csproj.CopyComplete
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\obj\Debug\net5.0\BookSavingInExternalTxtFile.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\obj\Debug\net5.0\ref\BookSavingInExternalTxtFile.dll
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\obj\Debug\net5.0\BookSavingInExternalTxtFile.pdb
+C:\Users\dvitk\OneDrive\Documents\CodeAcademy\C#.net\Sausio 25 d pamoka\Sausio 25 d pamoka\obj\Debug\net5.0\BookSavingInExternalTxtFile.genruntimeconfig.cache
