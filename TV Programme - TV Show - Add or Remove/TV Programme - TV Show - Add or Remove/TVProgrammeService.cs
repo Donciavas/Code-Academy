@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sausio_20_d_paskaita
+namespace TV_Programme___TV_Show___Add_or_Remove
 {
-    internal class FileWriterService
+    internal class TVProgrammeService
     {
     }
 }

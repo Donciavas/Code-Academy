@@ -40,7 +40,7 @@ namespace BookSavingInExternalTxtFile
                     Console.WriteLine("What you wat to do ?");
                     Console.WriteLine(" 1 - Add the Book To Storage;");
                     Console.WriteLine(" 2 - Read all book storage: ");
-                    Console.WriteLine(" 3 - Wriete all books To storage");
+                    Console.WriteLine(" 3 - Write all books To storage");
                     Console.WriteLine(" 4 - Borow book from storage");
                     Console.WriteLine(" 5 - Return book to storage");
                     Console.WriteLine(" 6 - View list off books which is borrowed");

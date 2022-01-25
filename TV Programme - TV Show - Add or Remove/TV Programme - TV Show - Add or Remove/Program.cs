@@ -7,7 +7,7 @@ namespace TV_Programme___TV_Show___Add_or_Remove
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("cs15_PASKAITA_Review");
+            Console.WriteLine("Sausio 24 d pamoka");
 
             #region Review
 
@@ -87,7 +87,7 @@ namespace TV_Programme___TV_Show___Add_or_Remove
             Console.WriteLine("---");
 
             //M         Remove TV Show by Name
-            showList.RemoveTVShowByName("Lord of the Rings I"); // <-- triname pirmą1
+            showList.RemoveTVShowByName("Lord of the Rings I"); // <-- triname pirmą (1)
             showList.PrintProgramme();
             Console.WriteLine("---");
 
