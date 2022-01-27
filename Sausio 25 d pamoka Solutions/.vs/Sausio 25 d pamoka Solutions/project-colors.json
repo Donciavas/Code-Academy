@@ -10,7 +10,17 @@
       "ProjectGuid": "eabb048d-2044-43b8-8259-3158c5e896ed",
       "DisplayName": "Models",
       "ColorIndex": 1
+    },
+    "03001c58-f5b6-4a4a-a6c8-4025a4307c56": {
+      "ProjectGuid": "03001c58-f5b6-4a4a-a6c8-4025a4307c56",
+      "DisplayName": "xUnit For Round Type",
+      "ColorIndex": 2
+    },
+    "fcde8e9e-03a4-457e-a8c7-3b925667fc6e": {
+      "ProjectGuid": "fcde8e9e-03a4-457e-a8c7-3b925667fc6e",
+      "DisplayName": "xUnit For Square Type",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }

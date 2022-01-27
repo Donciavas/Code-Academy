@@ -30,7 +30,11 @@ namespace Models.RoundType
         //    To calculate volume multiply the area with height.
         public void GetVolume()
         {
-            Console.WriteLine($"{Radius} * {Radius} * PI * {Height} * PI = {GetAreaData() * Height}");
+            Console.WriteLine($"{Radius} * {Radius} * PI * {Height} * PI = {Math.Round(GetAreaData() * Height, 5)}");
+        }
+        public double GetVolumeData()
+        {
+            return Math.Round(GetAreaData() * Height);
         }
     }
 }

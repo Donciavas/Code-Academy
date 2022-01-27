@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c6581c9-712e-4534-a2a7-585d2cbed888": {
+      "ProjectGuid": "8c6581c9-712e-4534-a2a7-585d2cbed888",
+      "DisplayName": "Sausio 26 d pamoka BIlls Burgers",
+      "ColorIndex": 0
+    },
+    "cb05a0fa-2eea-415a-a3e5-4abc4f4a6179": {
+      "ProjectGuid": "cb05a0fa-2eea-415a-a3e5-4abc4f4a6179",
+      "DisplayName": "Models",
+      "ColorIndex": 1
+    },
+    "4037c572-0ef7-4701-b81f-c45b00d3b968": {
+      "ProjectGuid": "4037c572-0ef7-4701-b81f-c45b00d3b968",
+      "DisplayName": "DeluxBurgerTest",
+      "ColorIndex": 2
+    },
+    "d9ec9209-9fcd-4d4d-a787-3248edcb0d56": {
+      "ProjectGuid": "d9ec9209-9fcd-4d4d-a787-3248edcb0d56",
+      "DisplayName": "HamburgerTest",
+      "ColorIndex": 3
+    },
+    "1e20ecc2-ff8a-47c7-a4f6-2bf9c072df53": {
+      "ProjectGuid": "1e20ecc2-ff8a-47c7-a4f6-2bf9c072df53",
+      "DisplayName": "HealthyBurgerTest",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

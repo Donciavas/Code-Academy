@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sausio 25 d pamoka Solutions", "Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions.csproj", "{667C2805-39E5-42BB-90FB-52B043CB7393}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sausio 25 d pamoka Solutions", "Sausio 25 d pamoka Solutions\Sausio 25 d pamoka Solutions.csproj", "{667C2805-39E5-42BB-90FB-52B043CB7393}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{8A6E5DE3-4DAB-4611-83DE-6B633ACAA92B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{EABB048D-2044-43B8-8259-3158C5E896ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{EABB048D-2044-43B8-8259-3158C5E896ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnit For Round Type", "xUnit For Round Type\xUnit For Round Type.csproj", "{03001C58-F5B6-4A4A-A6C8-4025A4307C56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnit For Square Type", "xUnit For Square Type\xUnit For Square Type.csproj", "{FCDE8E9E-03A4-457E-A8C7-3B925667FC6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +27,14 @@ Global
 		{EABB048D-2044-43B8-8259-3158C5E896ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EABB048D-2044-43B8-8259-3158C5E896ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EABB048D-2044-43B8-8259-3158C5E896ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03001C58-F5B6-4A4A-A6C8-4025A4307C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03001C58-F5B6-4A4A-A6C8-4025A4307C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03001C58-F5B6-4A4A-A6C8-4025A4307C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03001C58-F5B6-4A4A-A6C8-4025A4307C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCDE8E9E-03A4-457E-A8C7-3B925667FC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDE8E9E-03A4-457E-A8C7-3B925667FC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDE8E9E-03A4-457E-A8C7-3B925667FC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDE8E9E-03A4-457E-A8C7-3B925667FC6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

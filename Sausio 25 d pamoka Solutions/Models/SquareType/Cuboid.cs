@@ -23,5 +23,9 @@ namespace Models.SquareType
         {
             Console.WriteLine($"Volume is calculated by multiplyng height({Height}) width({Width}) and lenght({Lenght}) = {GetAreaData() * Height}");
         }
+        public double GetVolumeData()
+        {
+            return (GetAreaData() * Height);
+        }
     }
 }
